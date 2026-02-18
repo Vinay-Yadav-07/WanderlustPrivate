@@ -178,6 +178,6 @@ Media Storage: Cloudinary
 
 ## 👨‍💻 Developer
 
-**Vinay Yadav**
+**VINAY YADAV**
 Full Stack Developer
 Built with a focus on scalability, maintainability, and clean architecture.
